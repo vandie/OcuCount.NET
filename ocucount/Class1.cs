@@ -52,7 +52,7 @@ namespace ocucount
         /// Converts the count array to a JSON string.
         /// </summary>
         /// <returns>A JSON String.</returns>
-        public string toJSONString(){
+        public string ToJSONString(){
             string[] jsona = new string[dict.Count()];
             int i = 0;
             foreach( Count d in dict ){
