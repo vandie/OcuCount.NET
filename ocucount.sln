@@ -20,4 +20,8 @@ Global
 		{556107BA-B624-4CDE-A8A7-64785260060E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{556107BA-B624-4CDE-A8A7-64785260060E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+	EndGlobalSection
 EndGlobal
